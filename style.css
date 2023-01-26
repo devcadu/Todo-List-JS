@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(75, 216, 255);
+}
+h1 {
+    padding: 20px;
+}
+.container {
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+}
+#but {
+    margin-left: 1200px;
+}
